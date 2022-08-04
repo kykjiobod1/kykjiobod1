@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<!--[1659541764290539938_960x1440.webm](https://user-images.githubusercontent.com/52716339/182817665-910d2e63-d6fa-4c5b-8401-56d6c4ecd650.webm)
+![image](https://github.com/kykjiobod1/kykjiobod1/blob/main/1659541764290539938_960x1440%20(2).gif)
+
+
 
 **kykjiobod1/kykjiobod1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
